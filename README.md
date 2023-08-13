@@ -1,5 +1,1 @@
-Sample User:
-Email: badhrirajan2211@gmail.com
-Password: Badhri@2211
-
-Deployed URL Link: 
+Deployed URL Link: https://url-shortner-xohw.onrender.com
